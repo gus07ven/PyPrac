@@ -5,6 +5,7 @@
 #   update the values of xpos, ypos, and yvel for interval seconds
 #   further into the flight
 # Output the distance traveled as xpos
+from math import pi, sin, cos
 
 def main():
     angle = eval(input("Enter the launch angle (in degrees): "))
