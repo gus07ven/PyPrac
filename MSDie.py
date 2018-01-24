@@ -16,4 +16,4 @@ class MSDie:
     def setValue(self, value):
         self.value = value
 
-    
+
